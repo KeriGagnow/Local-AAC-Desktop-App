@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local ChromaDB Vector Database (will auto-generate on first run)
+local_aac_db/
+
+# System / IDE files
+.vscode/
+.DS_Store
